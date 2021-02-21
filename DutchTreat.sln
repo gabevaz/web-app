@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DutchTreat", "DutchTreat\DutchTreat.csproj", "{831B97AE-1655-4964-85BE-D28629F2E9C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{831B97AE-1655-4964-85BE-D28629F2E9C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{831B97AE-1655-4964-85BE-D28629F2E9C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{831B97AE-1655-4964-85BE-D28629F2E9C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{831B97AE-1655-4964-85BE-D28629F2E9C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BE8014A-AE80-4C60-B696-8F4085CE69B6}
+	EndGlobalSection
+EndGlobal
